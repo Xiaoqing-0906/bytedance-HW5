@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/106558161fcb6f35120984198040be4c/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/0d13bffecd171d6500ea70c1ae9c6755/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/e73f7f7afcecbb97f885af9ac700ad30/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/d9b533a0bc7955a27990d8d3b0c2be7d/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/59edfa9d490cb7db733b2c3365a5d26d/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/94f47604d63f5b47309e30bed01e580c/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/1842f1925f4103041ef7090ba1af8b3f/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/737e2941344d1fd9e3a72872ef2f958d/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/046bbd2ff4963622f6edf69c877e078d/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/c73fbbf0df16ad1e1e685b005c94b0a9/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/91f534a41fec0e8b72b0dbc67301ca06/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/0e115abfcecef349039b0ffae7b76b46/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/cfb94b9c9caf3d565022970b0e2e2284/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/b05287b3abd99fefeb07f88ff53e67bd/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/009c33058b6a0214a047d33ce9ca2261/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/4247303748afa9e02a52a2eaba6dcd2e/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/8bb45f42eeaa5e0ad28abcd972df6657/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/4ca644fb90137035cc7025a5d7506d4d/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/bb58f29376b23cfb2ffaa979c904b673/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/f58b630b3289b597fd0529c42e3cd1aa/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/19bfd9228257f1b15d155c24f9f64577/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/a14ba8e558e9d64ddfc1ad2fc9522b6c/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/f33e5f01263cc9d420b1e11d6704a955/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/786bf72fad22e09259deff59ae1becc1/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/acf87ed08d754d6dccc9629d9325c51f/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/096295f30c46fcf60536a77ef91dc3c2/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/e50c9ec14c16988b0113c3c4e8459f1a/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/37a15008b3a6bc7dee7602f3ec3c188a/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/b46b51a579eab93008bc7994557b6cf2/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/886f90b50e2799916072cc7270c8d1d7/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/840edbf2435ed691288fbac0c6ece168/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:design:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/106558161fcb6f35120984198040be4c/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/106558161fcb6f35120984198040be4c/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/e73f7f7afcecbb97f885af9ac700ad30/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/e73f7f7afcecbb97f885af9ac700ad30/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/bb58f29376b23cfb2ffaa979c904b673/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/bb58f29376b23cfb2ffaa979c904b673/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/f58b630b3289b597fd0529c42e3cd1aa/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/f58b630b3289b597fd0529c42e3cd1aa/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/bb58f29376b23cfb2ffaa979c904b673/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml:27:19-47
+uses-sdk
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/106558161fcb6f35120984198040be4c/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/106558161fcb6f35120984198040be4c/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/0d13bffecd171d6500ea70c1ae9c6755/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/0d13bffecd171d6500ea70c1ae9c6755/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/e73f7f7afcecbb97f885af9ac700ad30/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/e73f7f7afcecbb97f885af9ac700ad30/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/d9b533a0bc7955a27990d8d3b0c2be7d/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/d9b533a0bc7955a27990d8d3b0c2be7d/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/59edfa9d490cb7db733b2c3365a5d26d/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/59edfa9d490cb7db733b2c3365a5d26d/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/94f47604d63f5b47309e30bed01e580c/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/94f47604d63f5b47309e30bed01e580c/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/1842f1925f4103041ef7090ba1af8b3f/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/1842f1925f4103041ef7090ba1af8b3f/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/737e2941344d1fd9e3a72872ef2f958d/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/737e2941344d1fd9e3a72872ef2f958d/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/046bbd2ff4963622f6edf69c877e078d/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/046bbd2ff4963622f6edf69c877e078d/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/c73fbbf0df16ad1e1e685b005c94b0a9/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/c73fbbf0df16ad1e1e685b005c94b0a9/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/91f534a41fec0e8b72b0dbc67301ca06/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/91f534a41fec0e8b72b0dbc67301ca06/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/0e115abfcecef349039b0ffae7b76b46/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/0e115abfcecef349039b0ffae7b76b46/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/cfb94b9c9caf3d565022970b0e2e2284/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/cfb94b9c9caf3d565022970b0e2e2284/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/b05287b3abd99fefeb07f88ff53e67bd/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/b05287b3abd99fefeb07f88ff53e67bd/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/009c33058b6a0214a047d33ce9ca2261/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/009c33058b6a0214a047d33ce9ca2261/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/4247303748afa9e02a52a2eaba6dcd2e/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/4247303748afa9e02a52a2eaba6dcd2e/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/8bb45f42eeaa5e0ad28abcd972df6657/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/8bb45f42eeaa5e0ad28abcd972df6657/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/4ca644fb90137035cc7025a5d7506d4d/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/4ca644fb90137035cc7025a5d7506d4d/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/bb58f29376b23cfb2ffaa979c904b673/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/bb58f29376b23cfb2ffaa979c904b673/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/f58b630b3289b597fd0529c42e3cd1aa/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/f58b630b3289b597fd0529c42e3cd1aa/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/19bfd9228257f1b15d155c24f9f64577/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/19bfd9228257f1b15d155c24f9f64577/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/a14ba8e558e9d64ddfc1ad2fc9522b6c/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/a14ba8e558e9d64ddfc1ad2fc9522b6c/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/f33e5f01263cc9d420b1e11d6704a955/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/f33e5f01263cc9d420b1e11d6704a955/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/786bf72fad22e09259deff59ae1becc1/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/786bf72fad22e09259deff59ae1becc1/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/acf87ed08d754d6dccc9629d9325c51f/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/acf87ed08d754d6dccc9629d9325c51f/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/096295f30c46fcf60536a77ef91dc3c2/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/096295f30c46fcf60536a77ef91dc3c2/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/e50c9ec14c16988b0113c3c4e8459f1a/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/e50c9ec14c16988b0113c3c4e8459f1a/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/37a15008b3a6bc7dee7602f3ec3c188a/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/37a15008b3a6bc7dee7602f3ec3c188a/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/b46b51a579eab93008bc7994557b6cf2/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/b46b51a579eab93008bc7994557b6cf2/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/886f90b50e2799916072cc7270c8d1d7/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/886f90b50e2799916072cc7270c8d1d7/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/840edbf2435ed691288fbac0c6ece168/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangsen/.gradle/caches/transforms-2/files-2.1/840edbf2435ed691288fbac0c6ece168/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangsen/Downloads/Homework-1/app/src/main/AndroidManifest.xml
