@@ -1,5 +1,11 @@
-# bytedance-HW5-EasyTranslate
+# bytedance-HW5-TodooNow
 
-A little translate APP, via free API.
+A little Event application
 
-Maybe improve its layout and UI later...
+You can add an event and set the due date. 
+
+You can add different tag (Emergency, Slack, and so on), with different color.
+
+You can finish (delete) and event.
+
+I am planning to develop message function, WIP..
